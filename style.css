@@ -41,9 +41,9 @@ p {
 
 .categoria-videos img:hover {
     opacity: 1.0;
-    border: 1px solid green;
+    border: 1px solid rgb(16, 149, 114);
 }
 
 .categoria h2 {
- color: rgb(42, 122, 228);
+ color: rgb(178, 30, 211);
 }
