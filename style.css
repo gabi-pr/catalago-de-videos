@@ -3,14 +3,14 @@
     background: black;
     }
     header {
-border-bottom: solid 2px rgb(41, 115, 213);
+border-bottom: solid 2px rgb(250, 91, 232);
 padding: 20px;
 font-size: 32px;
-color: rgb(42, 122, 228);
+color: rgb(199, 123, 240);
 }
 
 .chamada {
-background: rgb(184, 156, 213);
+background: rgb(73, 33, 110);
 padding-bottom: 80px;
 padding-top: 80px;
 display: flex;
